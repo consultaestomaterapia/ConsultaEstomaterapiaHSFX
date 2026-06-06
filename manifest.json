@@ -3,11 +3,11 @@
   "short_name": "OstomiaHSFX",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#F8FAFC",
+  "background_color": "#064030",
   "theme_color": "#0F6E56",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/822/822143.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
